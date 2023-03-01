@@ -1,0 +1,54 @@
+.primary-container {
+  border-color: rgb(130, 121, 133);
+  height: 400px !important;
+  max-width: 500px !important;
+  min-width: 250px !important;
+  background-color: rgb(229, 191, 226);
+  border-radius: 5px;
+}
+
+.primary-heading {
+  text-transform: capitalize;
+  background-color: rgb(59, 147, 242);
+  border-radius: 0px 0px 5px 5px;
+}
+
+.secondary-container {
+  border: 1px solid rgb(130, 121, 133);
+  max-width: 400px !important;
+  min-width: 200px;
+  height: 300px;
+  box-shadow: 0 0 3px black;
+  border-radius: 3px;
+}
+
+input[type=number] {
+  background-color: rgb(229, 191, 226) !important;
+  text-align: center;
+  min-width: 200px !important;
+}
+
+input[type=number]:focus {
+  outline: none;
+}
+
+.display {
+  min-width: 160px !important;
+  height: 60px;
+  background-color: rgba(130, 217, 169, 0.893);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid black;
+  box-shadow: 0 0 1px black;
+}
+
+.display-result {
+  color: rgb(130, 121, 133);
+}
+
+.gen-btn {
+  background-color: rgb(26, 155, 210);
+  padding: 5px;
+  border-style: none;
+  border: 1px solid;
+}/*# sourceMappingURL=style.css.map */
